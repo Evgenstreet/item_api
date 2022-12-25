@@ -1,8 +1,8 @@
-[{"id":1,"maker":"Mazda","model":"MX-5","year":"1998","engine": "1.6l b6d", "country": "Japan",},
-{"id":2,"maker":"Volkswagen","model":"Golf","year":"2000","engine": "1.6l  AEH, AKL, APF", "country": "Germany",},
-{"id":3,"maker":"Mercedes-Benz","model":"CLK-Class","year":"1998","engine": "2.0l M 111 E 20", "country": "Germany",},
-{"id":4,"maker":"Mitsubishi","model":"Lancer Evo","year":"2003","engine": "2.0l 4G63T", "country": "Japan",},
-{"id":5,"maker":"Honda","model":"Civic","year":"1994","engine": "1.6l b16a", "country": "Japan",},
-{"id":6,"maker":"Lexus","model":"is200","year":"1998","engine": "2.0l 1G-FE", "country": "Japan",},
-{"id":7,"maker":"BMW","model":"M3","year":"1997","engine": "3.0l S50B30", "country": "Germany",},
-{"id":8,"maker":"Subaru","model":"Impreza WRX 2","year":"2005","engine": "2.5l EJ255", "country": "Japan",}]
+[{"id":1,"maker":"Mazda","model":"MX-5","year":"1998","engine": "1.6l b6d", "country": "Japan"},
+{"id":2,"maker":"Volkswagen","model":"Golf","year":"2000","engine": "1.6l  AEH, AKL, APF", "country": "Germany"},
+{"id":3,"maker":"Mercedes-Benz","model":"CLK-Class","year":"1998","engine": "2.0l M 111 E 20", "country": "Germany"},
+{"id":4,"maker":"Mitsubishi","model":"Lancer Evo","year":"2003","engine": "2.0l 4G63T", "country": "Japan"},
+{"id":5,"maker":"Honda","model":"Civic","year":"1994","engine": "1.6l b16a", "country": "Japan"},
+{"id":6,"maker":"Lexus","model":"is200","year":"1998","engine": "2.0l 1G-FE", "country": "Japan"},
+{"id":7,"maker":"BMW","model":"M3","year":"1997","engine": "3.0l S50B30", "country": "Germany"},
+{"id":8,"maker":"Subaru","model":"Impreza WRX 2","year":"2005","engine": "2.5l EJ255", "country": "Japan"}]
