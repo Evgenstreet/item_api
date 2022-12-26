@@ -1,7 +1,7 @@
-[{"id":1,"maker":"Mazda","model":"MX-5","year":"1998"},
-{"id":2,"maker":"Volkswagen","model":"Golf","year":"2000"},
-{"id":3,"maker":"Mercedes-Benz","model":"CLK-Class","year":"1998"},
-{"id":4,"maker":"Mitsubishi","model":"Lancer Evo","year":"2003"},
-{"id":5,"maker":"Honda","model":"Civic","year":"1994"},
-{"id":6,"maker":"Lexus","model":"is200","year":"1998"},
-{"id":7,"maker":"BMW","model":"M3","year":"1997"}]
+[{"id":1,"maker":"Milk","model":"MX-5","year":"1998"},
+{"id":2,"maker":"Bread","model":"Golf","year":"2000"},
+{"id":3,"maker":"Butter","model":"CLK-Class","year":"1998"},
+{"id":4,"maker":"Cheese","model":"Lancer Evo","year":"2003"},
+{"id":5,"maker":"Tomato","model":"Civic","year":"1994"},
+{"id":6,"maker":"Pepper","model":"is200","year":"1998"},
+{"id":7,"maker":"Meat","model":"M3","year":"1997"}]
